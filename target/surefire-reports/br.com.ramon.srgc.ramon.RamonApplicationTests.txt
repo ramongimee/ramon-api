@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.ramon.srgc.ramon.RamonApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.514 s - in br.com.ramon.srgc.ramon.RamonApplicationTests
